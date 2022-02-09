@@ -1,35 +1,21 @@
-import Head from 'next/head'
-import Header from '@components/Header'
-import Footer from '@components/Footer'
+<!DOCTYPE html>
+<html>
+<head>
+  <title>A static website</title>
 
-export default function Home() {
-  return (
-    <div className="container">
-      <Head>
-        <title>Alexlinkinfinites programing jurney</title>
-        <link rel="icon" href="/favicon.ico" />
-        <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-      </Head>
-      <body>
-        <!-- Add a menu:
-         Log in / Sign up - when the user is not logged in
-         Username / Log out - when the user is logged in
-        -->
-        <div data-netlify-identity-menu></div>
+  <!-- include the widget -->
+  <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+</head>
+<body>
+  <!-- Add a menu:
+   Log in / Sign up - when the user is not logged in
+   Username / Log out - when the user is logged in
+  -->
+  <div data-netlify-identity-menu></div>
 
-        <!-- Add a simpler button:
-          Simple button that will open the modal.
-        -->
-        <div data-netlify-identity-button>Login with Netlify Identity</div>
-      </body>
-      <main>
-        <Header title="Welcome to my app!" />
-        <p className="description">
-          Get started by editing <code>pages/index.js</code>
-        </p>
-      </main>
-
-      <Footer />
-    </div>
-  )
-}
+  <!-- Add a simpler button:
+    Simple button that will open the modal.
+  -->
+  <div data-netlify-identity-button>Login with Netlify Identity</div>
+</body>
+</html>
