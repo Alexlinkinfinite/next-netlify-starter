@@ -8,6 +8,7 @@ export default function Home() {
       <Head>
         <title>my programing jurney</title>
         <link rel="icon" href="/Sora-Meliae-Matrilineare-Mimes-image-x-ico.ico" />
+        <link href="/about"><a>about</a></link>
       </Head>
 
       <main>
@@ -15,7 +16,6 @@ export default function Home() {
         <p className="description">
           im new to programing so dont be harsh
         </p>
-        <link href="/about"><a>about</a></link>
       </main>
 
     </div>
