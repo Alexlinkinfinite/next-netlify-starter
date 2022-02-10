@@ -15,6 +15,7 @@ export default function Home() {
         <p className="description">
           im new to programing so dont be harsh
         </p>
+        <link href="/about"><a>about</a></link>
       </main>
 
     </div>
