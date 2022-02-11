@@ -9,7 +9,11 @@ export default function Home() {
       <Head>
         <title>my programing jurney</title>
         <link rel="icon" href="/Sora-Meliae-Matrilineare-Mimes-image-x-ico.ico" />
-        <link href="/about"><a>about</a></link>
+        <Link href="/about" passHref>
+        <a target="_blank">
+          <div className={`${dark ? styles.iconTwitterWhite : styles.iconTwitter} mr-3`} />
+        </a>
+      </Link>
       </Head>
 
       <main>
