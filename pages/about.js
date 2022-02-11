@@ -10,9 +10,7 @@ export default function about() {
         <title>about page</title>
         <link rel="icon" href="/Sora-Meliae-Matrilineare-Mimes-image-x-ico.ico" />
         <Link href="/home" passHref>
-        <a target="_blank">
-          <div className={`${dark ? styles.iconTwitterWhite : styles.iconTwitter} mr-3`} />
-        </a>
+        <a>home</a>
       </Link>
       </Head>
 
