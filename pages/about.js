@@ -9,7 +9,7 @@ export default function about() {
       <Head>
         <title>about page</title>
         <link rel="icon" href="/Sora-Meliae-Matrilineare-Mimes-image-x-ico.ico" />
-        <Link href="/home" passHref>
+        <Link href="pages/home" passHref>
         <a>home</a>
       </Link>
       </Head>
