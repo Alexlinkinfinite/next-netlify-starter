@@ -13,11 +13,15 @@ export default function about() {
       </Head>
 
       <main>
-        <Link href='/'><a>Home</a></Link>
         <Header title="about this blog" />
         <p className="description">
           I'm learning programing and I've tried to make games so now I made a blog to document what I learn and what games I make
         </p>
+        <li>
+          <Link href='/'>
+            <a>Home</a>
+          </Link>
+        </li>
       </main>
 
     </div>
