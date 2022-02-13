@@ -13,11 +13,11 @@ export default function Home() {
       </Head>
 
       <main>
-        <Link href='/about'><a>About</a></Link>
         <Header title="Welcome to my blog" />
         <p className="description">
           im new to programing so dont be harsh
         </p>
+        <Link href='/about'><a>About</a></Link>
       </main>
 
     </div>
