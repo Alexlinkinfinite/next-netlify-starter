@@ -4,19 +4,19 @@ import Footer from '@components/Footer'
 import Link from 'next/link'
 
 
-export default function Home() {
+export default function about() {
   return (
     <div className="container">
       <Head>
-        <title>my programing jurney</title>
+        <title>about page</title>
         <link rel="icon" href="/Sora-Meliae-Matrilineare-Mimes-image-x-ico.ico" />
       </Head>
 
       <main>
-        <Link href='/about'><a>About</a></Link>
-        <Header title="Welcome to my blog" />
+        <Link href='/'><a>Home</a></Link>
+        <Header title="about this blog" />
         <p className="description">
-          im new to programing so dont be harsh
+          I'm learning programing and I've tried to make games so now I made a blog to document what I learn and what games I make
         </p>
       </main>
 
