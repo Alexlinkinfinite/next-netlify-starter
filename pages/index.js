@@ -9,9 +9,6 @@ export default function Home() {
       <Head>
         <title>my programing jurney</title>
         <link rel="icon" href="/Sora-Meliae-Matrilineare-Mimes-image-x-ico.ico" />
-        <Link href="pages/about" passHref>
-        <a>about</a>
-      </Link>
       </Head>
 
       <main>
