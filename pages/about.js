@@ -17,11 +17,13 @@ export default function about() {
         <p className="description">
           I'm learning programing and I've tried to make games so now I made a blog to document what I learn and what games I make
         </p>
-        <li>
-          <Link href='/'>
-            <a>Home</a>
-          </Link>
-        </li>
+        <h1 className='Home'>
+          <li>
+            <Link href='/'>
+              <a>Home</a>
+            </Link>
+          </li>
+        </h1>
       </main>
 
     </div>
