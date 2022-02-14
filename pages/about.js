@@ -9,7 +9,6 @@ export default function About() {
       <h1>About page</h1>
       <h2>i am starting my jurney to learn to program and to make games</h2>
       <h2>i have some ideas but this is my first time to write a actual blog or to program something</h2>
-      <h2>if anyone has any ideas then please leave a comment in omne of my posts</h2>
       <h2></h2>
       <h4>
         <Link href="/">
