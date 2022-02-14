@@ -17,12 +17,13 @@ export default function Home() {
         <p className="description">
           im new to programing so dont be harsh
         </p>
-        <h1 className="title">
+        <h1>go fuck yourself</h1>
+        <p className="title">
           Read{' '}
           <Link href="/posts/first-post">
            <a>this post</a>
           </Link>
-        </h1>
+        </p>
       </main>
 
     </div>
