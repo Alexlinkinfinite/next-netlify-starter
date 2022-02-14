@@ -14,9 +14,6 @@ export default function Home() {
 
       <main>
         <Header title="Welcome to my blog" />
-        <p className="description">
-          im new to programing so dont be harsh
-        </p>
         <h1>go fuck yourself</h1>
         <p className="title">
           Read{' '}
@@ -24,6 +21,10 @@ export default function Home() {
            <a>this post</a>
           </Link>
         </p>
+        <p className="description">
+          im new to programing so dont be harsh
+        </p>
+        
       </main>
 
     </div>
