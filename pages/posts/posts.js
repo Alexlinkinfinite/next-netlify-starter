@@ -4,27 +4,23 @@ import Footer from '@components/Footer'
 import Link from 'next/link'
 
 
-export default function Home() {
+export default function Posts() {
   return (
     <div className="container">
       <Head>
-        <title>my programing jurney</title>
+        <title>posts</title>
         <link rel="icon" href="/Sora-Meliae-Matrilineare-Mimes-image-x-ico.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my blog" />
-        <p className="description">
-          im new to programing so dont be harsh
-        </p>
         <p className="title">
-          <Link href="/posts/posts">
-           <a>all posts</a>
+          <Link href="/posts/first-post">
+           <a>first post</a>
           </Link>
         </p>
         <p className="title">
-          <Link href="/about">
-           <a>about page</a>
+          <Link href="/">
+           <a>back Home</a>
           </Link>
         </p>
       </main>
