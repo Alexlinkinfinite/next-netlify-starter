@@ -7,11 +7,16 @@ export default function About() {
   return (
     <>
       <h1>About page</h1>
-      <h2>
+      <h4>
         <Link href="/">
-          <a>Home</a>
+          <a>Back to home</a>
         </Link>
-      </h2>
+      </h4>
+      <h4>
+        <Link href="/posts/first-post">
+          <a>my first post</a>
+        </Link>
+      </h4>
     </>
   )
 }

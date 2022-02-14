@@ -14,17 +14,19 @@ export default function Home() {
 
       <main>
         <Header title="Welcome to my blog" />
-        <h1>go fuck yourself</h1>
-        <p className="title">
-          Read{' '}
-          <Link href="/posts/first-post">
-           <a>this post</a>
-          </Link>
-        </p>
         <p className="description">
           im new to programing so dont be harsh
         </p>
-        
+        <p className="title">
+          <Link href="/posts/first-post">
+           <a>first post</a>
+          </Link>
+        </p>
+        <p className="title">
+          <Link href="/about">
+           <a>about page</a>
+          </Link>
+        </p>
       </main>
 
     </div>
