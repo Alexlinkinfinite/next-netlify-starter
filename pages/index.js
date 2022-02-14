@@ -17,12 +17,11 @@ export default function Home() {
         <p className="description">
           im new to programing so dont be harsh
         </p>
-        <h1 className='about'>
-          <li>
-            <Link href='/about'>
-              <a>About</a>
-            </Link>
-          </li>
+        <h1 className="title">
+          Read{' '}
+          <Link href="/about">
+           <a>About Page</a>
+          </Link>
         </h1>
       </main>
 
