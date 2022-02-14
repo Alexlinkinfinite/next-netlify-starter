@@ -18,7 +18,7 @@ export default function Home() {
           im new to programing so dont be harsh
         </p>
         <p className="title">
-          <Link href="/posts/posts">
+          <Link href="/posts">
            <a>all posts</a>
           </Link>
         </p>

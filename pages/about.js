@@ -16,7 +16,7 @@ export default function About() {
         </Link>
       </h4>
       <h4>
-        <Link href="/posts/posts">
+        <Link href="/posts">
           <a>all posts</a>
         </Link>
       </h4>
