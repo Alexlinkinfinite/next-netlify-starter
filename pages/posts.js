@@ -18,6 +18,11 @@ export default function Posts() {
            <a>first post</a>
           </Link>
         </p>
+        <p className="titel">
+          <link href="/posts/ffenster">
+            <a>ffenster</a>
+          </link>
+        </p>
         <p className="title">
           <Link href="/">
            <a>back Home</a>
