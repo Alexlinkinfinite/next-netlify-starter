@@ -13,21 +13,21 @@ export default function Posts() {
       </Head>
 
       <main>
-        <p className="title">
+        <h2 className="title">
           <Link href="/posts/first-post">
            <a>first post</a>
           </Link>
-        </p>
-        <p>
+        </h2>
+        <h2 className="title">
           <Link href="/posts/seccond-post">
             <a>ffenster</a>
           </Link>
-        </p>
-        <p className="title">
+        </h2>
+        <h2 className="title">
           <Link href="/">
            <a>back Home</a>
           </Link>
-        </p>
+        </h2>
       </main>
 
     </div>
