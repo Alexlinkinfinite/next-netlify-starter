@@ -19,7 +19,7 @@ export default function Posts() {
           </Link>
         </p>
         <p className="titel">
-          <link href="/posts/ffenster">
+          <link href="/posts/seccond-post">
             <a>ffenster</a>
           </link>
         </p>
