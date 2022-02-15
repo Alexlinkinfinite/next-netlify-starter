@@ -7,7 +7,7 @@ export default function SeccondPost() {
   return (
     <>
       <h1>FFenster</h1>
-      <h2>i made this post to show people that i own it</h2>
+      <h2>i made this post to show people that i own this website</h2>
       <h2></h2>
       <h4>
         <Link href="/">
