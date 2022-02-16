@@ -9,7 +9,7 @@ export default function PythonGame() {
         <h1>Making a Python game</h1>
         <h2>i have an idea to make a cool game in python using pygame</h2>
         <h1></h1>
-        <h2>i am currently reading a book about pygame.</h2>
+        <h2>i am currently reading a book about pygame</h2>
     </>
     )
 }
