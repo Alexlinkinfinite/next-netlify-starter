@@ -6,7 +6,7 @@ import Link from 'next/link'
 export default function SeccondPost() {
   return (
     <>
-      <h1>FFenster</h1>
+      <h1>Tafel</h1>
       <h2>i made this post to show people that i own this website</h2>
       <h2>i will change the FFenster title to show people that i own this website</h2>
       <h2></h2>
