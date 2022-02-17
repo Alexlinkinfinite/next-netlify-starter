@@ -14,13 +14,13 @@ export default function Posts() {
 
       <main>
         <h2 className="title">
-          <Link href="/posts/first-post">
-           <a>first post</a>
+          <Link href="/posts/Alexlinkinfinite/posts">
+           <a>Alexlinkinfinite</a>
           </Link>
         </h2>
         <h2 className="title">
-          <Link href="/posts/seccond-post">
-            <a>ffenster</a>
+          <Link href="/posts/laith/posts">
+            <a>person</a>
           </Link>
         </h2>
         <h2 className="title">
