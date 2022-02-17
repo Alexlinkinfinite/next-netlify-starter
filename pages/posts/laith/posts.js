@@ -15,17 +15,17 @@ export default function Posts() {
       <main>
         <h2 className="title">
           <Link href="/posts/laith/post1">
-           <a>post1</a>
+           <a>post 1</a>
           </Link>
         </h2>
         <h2 className="title">
           <Link href="/posts/laith/post2">
-            <a>post2</a>
+            <a>post 2</a>
           </Link>
         </h2>
         <h2 className="title">
           <Link href="/posts/laith/post3">
-            <a>post3</a>
+            <a>post 3</a>
           </Link>
         </h2>
         <h2 className="title">

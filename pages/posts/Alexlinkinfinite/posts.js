@@ -15,17 +15,17 @@ export default function Posts() {
       <main>
         <h2 className="title">
           <Link href="/posts/Alexlinkinfinite/post1">
-           <a>post1 14.02.2022</a>
+           <a>post 1 14.02.2022</a>
           </Link>
         </h2>
         <h2 className="title">
           <Link href="/posts/Alexlinkinfinite/post2">
-            <a>post2 15.02.2022</a>
+            <a>post 2 15.02.2022</a>
           </Link>
         </h2>
         <h2 className="title">
-          <Link href="/posts/Alexlinkinfinite/post3-python game">
-            <a>post3 17.02.2022</a>
+          <Link href="/posts/Alexlinkinfinite/post3-python-game">
+            <a>post 3 python game 17.02.2022</a>
           </Link>
         </h2>
         <h2 className="title">
